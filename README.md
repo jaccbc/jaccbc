@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👍 It's all good?</h1>
+<h1 align="center">Hey 👍'all good?</h1>
 <div align="center">
   <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BydDg2bm55dHVhc3l6MnEwemJxNjE3ZTZ5bWFpbG0xNnZqanp6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif"  />
 </div>
 
 
-<h3 align="center">🛠 Tongues & Tools</h3>
+<h3 align="center">👅 Tongues & Tools 🛠</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -19,5 +19,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaccbc/jaccbc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaccbc/jaccbc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jaccbc/jaccbc/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
