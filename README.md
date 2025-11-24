@@ -3,6 +3,9 @@
   <img height="125" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"/>
 </div>
 <br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccbc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
 <h3 align="center">👅 Tongues & Tools 🛠</h3>
@@ -20,8 +23,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-<br><br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccbc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
