@@ -11,7 +11,7 @@
 <h3 align="center">⚒️ Tools 🛠</h3>
 <br>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" alt="linux logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" alt="linux logo"  /><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" height="40" alt="nixos logo"  /><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="40" alt="bash logo"  /><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
