@@ -18,12 +18,10 @@
   <img src="https://cdn.brandfetch.io/idD18u6Kry/w/50/h/50/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="parrotOS logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" height="40" alt="rpi logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" height="40" alt="termux logo"  /><br>
-  
-  <img src="https://www.vim.org/images/vimlogo.svg" height="40" alt="vim logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="40" alt="bash logo"  /><br>
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/VirtualBox_2024_Logo_with_Wordmark.svg" width="115" alt="virtualbox logo"  /><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Podman-logo-orig.png" height="40" alt="podman logo"  /><br>
-  
-  <img src="https://git-scm.com/images/logo@2x.png" height="40" alt="git logo"  />
+  <img src="https://git-scm.com/images/logo@2x.png" height="40" alt="git logo"  />  
+  <img src="https://www.vim.org/images/vimlogo.svg" height="40" alt="vim logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="40" alt="bash logo"  /><br>
 </div>
