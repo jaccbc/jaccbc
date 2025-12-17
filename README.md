@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" eight="125" />
 </div>
 <div align ="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaccbc&show_icons=true&theme=dracula&hide=prs&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaccbc&show_icons=true&theme=dracula&hide=prs&hide_rank=true" alt="page stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaccbc&theme=dracula&layout=compact" alt="top langs" />
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" height="25" />
     <a> Tools</a>
