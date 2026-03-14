@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" height="230" />
 </div>
-<!--
+<!-- vercel github stats -->
 <div align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaccbc&show_icons=true&theme=dracula&hide=prs&hide_rank=true" alt="page stats" width="350" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaccbc&theme=dracula&layout=compact" alt="top langs" width="350" /><br>
--->
+<!--
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" height="25" />
     <a> Tools</a>
@@ -19,14 +19,11 @@
   <img src="https://cdn.brandfetch.io/idD18u6Kry/w/50/h/50/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="parrotOS logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" height="40" alt="rpi logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" height="40" alt="termux logo"  /><br>
-
-  
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="115" alt="docker logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Podman-logo-orig.png" height="40" alt="podman logo"  /><br>
-
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" width="115" alt="nginx logo" /><br>
-  
   <img src="https://git-scm.com/images/logo@2x.png" height="40" alt="git logo"  /><br>
   <img src="https://www.vim.org/images/vimlogo.svg" height="40" alt="vim logo"  /><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="40" alt="bash logo"  />
+  -->
 </div>
